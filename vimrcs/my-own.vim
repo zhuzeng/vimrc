@@ -87,8 +87,9 @@ map <F7> :if exists("syntax_on") <BAR>
 \  endif
 
 nmap <tab> <C-w>w
-nmap z :bn<Enter>
+nmap zz :bn<Enter>
 nmap Z :bp<Enter>
+
 set tags=~/tags
 set path=./**,~/postgres-9.4.1/**,/usr/include/**
 
