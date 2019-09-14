@@ -7,6 +7,7 @@ filetype plugin indent on    " required
 " colorschema under /usr/share/vim/vim73/colors
 " colorscheme torte
 " colorscheme automation
+colorscheme darkblue
 syntax on
 set background=dark
 "*cterm-colors*
