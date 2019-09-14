@@ -110,3 +110,4 @@ set statusline+=Lines:\ %p%%\ [%l/%L]    " Current line
 set statusline+=\ -\      " Separator
 set statusline+=Col:\ %c%V\ %P
 " set statusline=[%n]\ %<%F\ \ \ [%M%R%H%W%Y][%{&ff}]\ \ %=\ line:%l/%L\ col:%c\ \ \ %p%%\ \ \ @%{strftime(\"%H:%M:%S\")}
+set mouse=r
